@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# play an infinite shifing rainbow
+# play an infinite shifting rainbow
 # 
 
 while [ 1 ] ;  do
